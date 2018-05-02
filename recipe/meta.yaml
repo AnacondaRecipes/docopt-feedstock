@@ -28,6 +28,8 @@ about:
     home: http://docopt.org
     license: MIT
     summary: Pythonic argument parser, that will make you smile
+    dev_url: https://github.com/docopt/docopt
+    doc_url: http://docopt.readthedocs.io/
 
 extra:
     recipe-maintainers:
